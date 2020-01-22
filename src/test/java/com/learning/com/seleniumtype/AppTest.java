@@ -20,12 +20,7 @@ public class AppTest
         super( testName );
     }
     
-    public void testingNavathaSeleninum()
-    {
-    	
-    }
-    
-    
+       
 
     /**
      * @return the suite of tests being tested
